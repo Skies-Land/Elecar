@@ -1,7 +1,6 @@
 # 🚗 Elecar
 
 - Site web responsive sur l'automobile développé en HTML CSS & JavaScript.
-- Contient des animations lors du défilement.
 - Défilement fluide dans chaque section.
 - Développé d'abord selon la méthodologie Mobile First, puis pour les ordinateurs de bureau.
 - Compatible avec tous les appareils mobiles et doté d'une interface utilisateur belle et agréable.
